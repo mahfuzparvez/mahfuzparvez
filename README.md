@@ -3,13 +3,14 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **<a herf="https://github.com/mahfuzparvez">here</a>**
+- 💬 Ask me about **Here**
 
 - 😂 Fun fact **I love to draw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahfuz-parvez-opu-2052411b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahfuz-parvez-opu-2052411b7/" height="30" width="40" /></a>
+<a href="https://gmail.com/in/https://www.mahfuzparvezopu02@gmail.com/" target="blank"><img align="center" src="https://i.postimg.cc/BQg4Lbtd/download.png" alt" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
