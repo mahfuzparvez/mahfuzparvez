@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Here**
+- 👯 I’m looking - To collaborate on **open source projects** 
 
-- 😂 Fun fact **I love to draw**
+- 💬 Free to ask me **anything**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
