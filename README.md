@@ -20,7 +20,9 @@
  <a 
  href="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" width="100" height="40"/> </a>
 <a 
-href="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="100" height="40"/> </a> </p>
+href="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="100" height="40"/> </a>
+<a 
+href="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="100" height="40"/> </a> </p>
 
 <p style={{ backgroundColor: 'black' }}><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzparvez&show_icons=true&locale=en&layout=compact" alt="mahfuzparvez" /></p>
 
